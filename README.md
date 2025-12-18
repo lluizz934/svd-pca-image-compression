@@ -1,2 +1,14 @@
 # svd-pca-image-compression
-Implementação em GNU Octave/MATLAB de compressão de imagens via SVD e PCA, com avaliação por taxa de compressão, erro de Frobenius e energia preservada.
+# Compressão de Imagens via SVD e PCA
+
+Este repositório contém os códigos desenvolvidos no Trabalho de Conclusão de Curso
+"Compressão Digital de Imagens via SVD e PCA", apresentado ao curso de ...
+
+Os experimentos foram implementados em GNU Octave/MATLAB e utilizam imagens
+da base USC-SIPI.
+
+## Execução
+Execute o script `experiments/run_all.m` no GNU Octave.
+
+## Referência
+Luiz Nogueira. Compressão Digital de Imagens via SVD e PCA. TCC, UFAM, 2025.
