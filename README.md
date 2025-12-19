@@ -11,4 +11,4 @@ da base USC-SIPI.
 Execute o script `experiments/run_all.m` no GNU Octave.
 
 ## Referência
-Luiz Nogueira. Compressão Digital de Imagens via SVD e PCA. TCC, UFAM, 2025.
+Luiz Nogueira. Contribuições da Álgebra Linear no processo de compressão digital. TCC, UFAM, 2025.
